@@ -1,4 +1,4 @@
-package org.escoladecodigo.rhashtafaris.conferenceacademy.entity;
+package org.escoladecodigo.rhashtafaris.conferenceacademy.repository;
 
 import org.escoladecodigo.rhashtafaris.conferenceacademy.model.Session;
 import org.springframework.data.repository.CrudRepository;
