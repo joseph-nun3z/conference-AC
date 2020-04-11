@@ -1,7 +1,7 @@
 ### CONFERENCE-API STEP-BY-STEP
 
 ```
-0. Use spring initializr to start build your app;
+0. Use spring initializr to start building your app;
 1. Initialize repository and add remote;
 2. Add extra dependencies to your pom.xml;
 3. Set up your Database;
