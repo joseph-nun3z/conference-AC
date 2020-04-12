@@ -48,7 +48,7 @@
 REST
 
 ```
-       - Honor me by designing your own RESTful API;
+       - Honor me by designing your own RESTfull API;
 ```
 
 OBJECT RELATIONAL MAPPING
