@@ -24,6 +24,7 @@
     - I want to create a new session for a speaker;
     - I wan to be able to find a session for any speaker;
     - I want to be able to know the schedule for any session or speaker;
+    - Unit tests;
 ```
 
 ### TOOLS && CONCEPTS
@@ -62,7 +63,7 @@ OBJECT RELATIONAL MAPPING
     - Inner joins;
 ```
 
-SPECIAL THANKS
+### SPECIAL THANKS
 
 ```
     - Rhashtafaris for being patient with me;
