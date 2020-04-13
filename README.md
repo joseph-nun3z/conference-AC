@@ -71,4 +71,5 @@ OBJECT RELATIONAL MAPPING
     - João Faustino for doing his best to teach us;
     - Fernando Abreu for showing us there is ligth after this hell of a bootcamp;
     - Mariana Barros for being a great teacher, and always pointing the best thing about you.
+    - Alexandra Bigottes for never giving up on me.
 ```
